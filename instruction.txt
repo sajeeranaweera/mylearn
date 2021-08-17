@@ -1,0 +1,20 @@
+Image Path: server/content/images
+
+css changes: below lines should be comment
+
+for colored(HBSstyle.css)
+#side-menu .nav-header .profile-element img {
+   /* filter: contrast(0);*/ 
+    -ms-filter: contrast(0);
+    /*-webkit-filter: contrast(0);*/
+}
+
+for scale up(style.css)
+.nav-header {
+     /* padding: 33px 25px;*/ 
+    background-color: #2f4050;
+    background-image: url(patterns/header-profile.png);
+}
+
+
+add new thing
